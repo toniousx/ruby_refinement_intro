@@ -4,7 +4,7 @@ puts 8327
 #1) thousands place: 8
 puts 8327/1000
 #2) hundreds place: 3
-#modulo_result = 8327 % 1000 #Dividing 8327 / 8000 will give us 327 as *reminder
+#modulo_result = 8327 % 1000 #Dividing 8327 / 8000 will give us 327 as *remainder
 #modulo_result / 100 #327 /100 = 3.27 as float and 3 as integer
 puts (8327 % 1000) / 100 #=3
 #3) tens place: 2
